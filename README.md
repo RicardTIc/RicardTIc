@@ -20,3 +20,11 @@
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-E95420?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+
+
+
+<div> 
+ 
+</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#0205BD&height=120&section=footer"/>
+
